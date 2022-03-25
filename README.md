@@ -98,7 +98,9 @@ console.log(string);
 > Diferente do código da [Pasta print](https://github.com/devartes/desafio/tree/master/print), o código da [Pasta window prompt](https://github.com/devartes/desafio/tree/master/window%20prompt) permite ao usuário definir o tamanho desejado para a ampulheta , esta parte do código é responsável por este processo :
 
 ```
-console.log(string + "\n" + "n= " + n);
+
+let string = "";
+let n = window.prompt('Digite um tamanho para a ampulheta ');
 
 ```
 e
