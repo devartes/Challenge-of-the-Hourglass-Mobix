@@ -86,4 +86,7 @@ console.log(string);
 
 <img align="center" alt="png" src="https://github.com/devartes/desafio/blob/master/window%20prompt%201.png?raw=true" width="400" style="max-width:100%">
 
-> Você pode digitar um tamanho exemplo : 20 ou 10 ou 30 ,etc , qualquer valor (número) e o resultado será exibido
+> Você pode digitar um tamanho, exemplo : 20 ou 10 ou 30 ,etc , qualquer valor (número) e o resultado será exibido. </br>
+> Para visualizar o resultado , será necessário inspecionar a página , abrir o developer tools , para isso basta clicar com o botão direito do mouse e clicar inspecionar , como mostra a imagem abaixo:
+
+<img align="center" alt="png" src="https://github.com/devartes/desafio/blob/master/window%20prompt%202.png?raw=true" width="400" style="max-width:100%">
