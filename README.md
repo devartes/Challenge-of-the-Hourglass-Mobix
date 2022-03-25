@@ -90,3 +90,7 @@ console.log(string);
 > Para visualizar o resultado , será necessário inspecionar a página , abrir o developer tools , para isso basta clicar com o botão direito do mouse e clicar inspecionar , como mostra a imagem abaixo:
 
 <img align="center" alt="png" src="https://github.com/devartes/desafio/blob/master/window%20prompt%202.png?raw=true" width="400" style="max-width:100%">
+
+> Uma segunda área será exibida , clique na aba "console" e o resultado estará lá.
+
+<img align="center" alt="png" src="https://github.com/devartes/desafio/blob/master/window%20prompt%203.png?raw=true" width="400" style="max-width:100%">
