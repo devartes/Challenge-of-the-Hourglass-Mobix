@@ -1,6 +1,6 @@
 
 let string = "";
-let n = window.prompt('Digite seu nome: ');
+let n = window.prompt('Digite um tamanho para a ampulheta ');
 
 
 for(let i=1;i<=n;i++)  
@@ -23,6 +23,5 @@ for(let i=1;i<=n;i++)
 }  
 
 
-// printing the string
 console.log(string + "\n" + "n= " + n);
 

@@ -1,5 +1,5 @@
-let n = 20; // row or column count
-// defining an empty string
+let n = 20; 
+
 let string = "";
 
 
@@ -22,7 +22,5 @@ for(let i=1;i<=n;i++)
         string += "\n"; 
 }  
 
-
-// printing the string
 console.log(string);
 
