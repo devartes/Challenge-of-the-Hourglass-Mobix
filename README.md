@@ -82,4 +82,8 @@ console.log(string);
 
 ## Como visualizar o resultado?
 
-> Eu tive que usar html , para que o resultado fosse exibido no navegador , é necessário uma extensão como Live Server no Vs Code para visualizar o contéudo no navegador, quando a tela carregar vai aparecer uma caixa 
+> Eu tive que usar html , para que o resultado fosse exibido no navegador , é necessário uma extensão como Live Server no Vs Code para visualizar o contéudo no navegador, quando a tela carregar vai aparecer uma caixa com uma mensagem "digite o tamanho para a ampulheta" e um espaço para que o tamanho seja digitado, como na imagem abaixo por exemplo:
+
+<img align="center" alt="png" src="https://github.com/devartes/desafio/blob/master/window%20prompt%201.png?raw=true" width="400" style="max-width:100%">
+
+> Você pode digitar um tamanho exemplo : 20 ou 10 ou 30 ,etc , qualquer valor (número) e o resultado será exibido
