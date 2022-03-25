@@ -76,3 +76,10 @@ console.log(string);
   `let n = 20;` define o tamanho da ampulheta.
 
 <img align="center" alt="png" src="https://github.com/devartes/desafio/blob/master/print.png?raw=true" width="400" style="max-width:100%">
+
+
+## [Pasta window prompt](https://github.com/devartes/desafio/tree/master/window%20prompt)
+
+## Como visualizar o resultado?
+
+> Eu tive que usar html , para que o resultado fosse exibido no navegador , é necessário uma extensão como Live Server no Vs Code para visualizar o contéudo no navegador, quando a tela carregar vai aparecer uma caixa 
