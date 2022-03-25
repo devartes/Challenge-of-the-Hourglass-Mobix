@@ -44,4 +44,4 @@ console.log(string);
 
   `let n = 20;` define o tamanho da ampulheta.
 
-
+<img align="center" alt="png" src="https://github.com/devartes/desafio/blob/master/print.png?raw=true" width="400" style="max-width:100%">
