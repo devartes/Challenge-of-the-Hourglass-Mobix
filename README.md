@@ -139,3 +139,5 @@ console.log(string + "\n" + "n= " + n);
 
 ```
 > dentro do [window prompt.js](https://github.com/devartes/desafio/blob/master/window%20prompt/window%20prompt.js)
+
+> Eu não consegui realizar uma animação com os # e nem preencher o espaço inferior , fiz dois códigos , porém deixo para que o avaliador escolha qual dos dois será levado em consideração.
