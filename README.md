@@ -138,4 +138,4 @@ for(let i=1;i<=n;i++)
 console.log(string + "\n" + "n= " + n);
 
 ```
-> dentro do [Pasta print](https://github.com/devartes/desafio/tree/master/print)
+> dentro do [window prompt.js](https://github.com/devartes/desafio/blob/master/window%20prompt/window%20prompt.js)
