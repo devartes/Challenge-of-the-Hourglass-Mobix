@@ -1,7 +1,7 @@
 # Sobre o Teste
 ## Desafio da Ampulheta
 
-Na [Pasta print](https://github.com/devartes/desafio/tree/master/print) , foi usado somente javascript e na [Pasta window prompt](https://github.com/devartes/desafio/tree/master/window%20prompt) , foi usado Javascript e Html.
+Na [Pasta print](https://github.com/devartes/desafio/tree/master/print) , foi usado somente Javascript e na [Pasta window prompt](https://github.com/devartes/desafio/tree/master/window%20prompt) , foi usado Javascript e Html.
 
 
 - VS Code e [JSFiddle](https://jsfiddle.net/) me auxiliaram durante a criação do código.
